@@ -35,3 +35,7 @@
 .idea
 .vscode
 .replit
+
+# Cmake
+cmake-build-debug
+CMakeLists.txt
