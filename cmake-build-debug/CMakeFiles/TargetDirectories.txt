@@ -1,3 +1,0 @@
-/Users/pratibhaverma/CLionProjects/Lahar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/pratibhaverma/CLionProjects/Lahar/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/pratibhaverma/CLionProjects/Lahar/cmake-build-debug/CMakeFiles/Lahar.dir
