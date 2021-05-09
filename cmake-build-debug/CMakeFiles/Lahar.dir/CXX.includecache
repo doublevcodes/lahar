@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pratibhaverma/CLionProjects/Lahar/constants.cpp
+string
+-
+chrono
+-
+sstream
+-
+iomanip
+-
+constants.h
+/Users/pratibhaverma/CLionProjects/Lahar/constants.h
+
+/Users/pratibhaverma/CLionProjects/Lahar/constants.h
+
+/Users/pratibhaverma/CLionProjects/Lahar/main.cpp
+iostream
+-
+constants.h
+/Users/pratibhaverma/CLionProjects/Lahar/constants.h
+
