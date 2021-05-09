@@ -3,7 +3,7 @@
 #define LAHAR_CONSTANTS_H
 
 /* Functions */
-std::string construct_version();
+std::string construct_information_string();
 
 /* Lahar constants */
 #define LAHAR_VERSION "0.0.1a1"
