@@ -11,4 +11,18 @@
 </div>  
 <h1></h1>
 <h3>What is Lahar?</h3>
-Lahar is next-generation CLI Text Editor to support all your needs.
+Lahar is next-generation CLI Text Editor to support all your needs. It utilises the <a href="https://ftp.gnu.org/pub/gnu/ncurses/">GNU NCurses</a> library to provide a distraction-free editing environment. Inspired by the likes of <a href="https://www.nano-editor.org/">GNU Nano</a> and <a href="https://www.vim.org/">Vim</a>, Lahar strives to be a reputable, reliable and reusable editor.
+<h3>Lahar 100</h3>
+To get started with Lahar, simply <a href="https://github.com/doublevcodes/lahar/releases">download the latest release</a> from GitHub
+Then follow a few easy steps:
+
+1. Run `./configure` in the terminal (or Command Prompt for Windows)
+2. Run a few other things I haven't decided yet.
+
+<h4>Lahar is ready for use!</h4>
+
+> Please be aware Lahar has not released a public, stable API. All features are subject to bugs.
+<div align="center">
+    <h1></h1>
+    <h6>© Lahar MMXXI</h6>
+</div>
