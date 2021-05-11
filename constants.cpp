@@ -4,7 +4,7 @@
 #include <iomanip>
 #include "constants.h"
 
-std::string construct_version() {
+std::string construct_information_string() {
 
     /* Lahar information */
     std::string information_string { "Lahar v" };
