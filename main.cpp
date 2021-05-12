@@ -23,6 +23,13 @@ int main()
         character = getch();
         if (character == KEY_F(1)) {
             break;
+        } else if (character == 127) {
+            int current_row{ 0 };
+            int current_col{ 0 };
+            getyx(stdscr, current_row, current_col);
+            move(current_row, current_col - 1);
+            delch();
+            refresh();
         } else {
             addch(character);
             refresh();
