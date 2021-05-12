@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/-GNU%20NCurses%206.2-black?logo=gnu&style=flat-square" alt="gnu ncurses"><br>
     <img src="https://img.shields.io/badge/License-Apache%202.0-grey?logo=apache&style=flat-square&labelColor=black" alt="License">
     <img src="https://img.shields.io/badge/-Lahar v0.0.1a1-black?logo=Windows%20Terminal&style=flat-square" alt="Lahar version shield"><br>
-    <img src="https://img.shields.io/badge/Windows-operational-green?logo=Windows&style=flat-square&labelColor=black" alt="windows">
+    <img src="https://img.shields.io/badge/Windows-unoperational-red?logo=Windows&style=flat-square&labelColor=black" alt="windows">
     <img src="https://img.shields.io/badge/OS%20X-operational-green?logo=Apple&style=flat-square&labelColor=black" alt="macos">
     <img src="https://img.shields.io/badge/Linux-operational-green?logo=linux&style=flat-square&labelColor=black&logoColor=white" alt="linux">
 </div>  
