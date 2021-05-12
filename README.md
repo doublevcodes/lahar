@@ -13,13 +13,40 @@
 <h3>What is Lahar?</h3>
 Lahar is next-generation CLI Text Editor to support all your needs. It utilises the <a href="https://ftp.gnu.org/pub/gnu/ncurses/">GNU NCurses</a> library to provide a distraction-free editing environment. Inspired by the likes of <a href="https://www.nano-editor.org/">GNU Nano</a> and <a href="https://www.vim.org/">Vim</a>, Lahar strives to be a reputable, reliable and reusable editor.
 <h3>Lahar 100</h3>
-To get started with Lahar, simply <a href="https://github.com/doublevcodes/lahar/releases">download the latest release</a> from GitHub
-Then follow a few easy steps:
+<h4>Prerequisites</h4>
 
-1. Run `./configure` in the terminal (or Command Prompt for Windows)
-2. Run a few other things I haven't decided yet.
+- [GNU NCurses](https://ftp.gnu.org/pub/gnu/ncurses/)
 
-<h4>Lahar is ready for use!</h4>
+To get started with Lahar, simply <a href="https://github.com/doublevcodes/lahar/releases">download the latest release</a> from GitHub, compile the program and execute it!
+<br>
+
+```bash
+$ git clone https://github.com/doublevcodes/lahar
+$ cd lahar
+```
+<h6>Cloning the repository and entering the working directory</h6>
+
+Now you need to compile the code:
+
+<h6>With GCC</h6>
+
+```bash
+$ g++ main.cpp constants.cpp -o lahar --std=c++17 -lncurses
+```
+
+<h6>With CLang</h6>
+
+```bash
+$ clang++ main.cpp constants.cpp -o lahar --std=c++17 -lncurses
+```
+
+We're nearly there! To use Lahar, go ahead and type
+
+```bash
+./lahar
+```
+
+<h4>Lahar is ready to use!</h4>
 
 > Please be aware Lahar has not released a public, stable API. All features are subject to bugs.
 <div align="center">
