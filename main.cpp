@@ -4,7 +4,7 @@
 #include <cstring>
 #include "constants.h"
 
-int main()
+int main(int argc, char **argv)
 {
     initscr();
     raw();
