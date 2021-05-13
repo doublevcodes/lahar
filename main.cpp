@@ -1,6 +1,7 @@
 #include <ncurses.h>
 #include <iostream>
 #include <string>
+#include <cstring>
 #include "constants.h"
 
 int main()
